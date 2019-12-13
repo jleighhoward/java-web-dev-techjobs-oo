@@ -4,11 +4,11 @@ import java.util.Objects;
 
 public class CoreCompetency extends JobField {
 
-    CoreCompetency(String value){
+    public CoreCompetency(String value){
         super(value);
     }
 
-    CoreCompetency(){
+    public CoreCompetency(){
         super();
     }
 

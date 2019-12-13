@@ -4,11 +4,11 @@ import java.util.Objects;
 
 public class PositionType extends JobField{
 
-    PositionType(String value){
+    public PositionType(String value){
         super(value);
     }
 
-    PositionType(){
+    public PositionType(){
         super();
     }
 
